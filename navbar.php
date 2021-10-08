@@ -8,16 +8,16 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'search_anything' => 'Search...',
-    'home' => 'Home',
-    'about_us' => 'About us',
-    'contact' => 'Contact',
-    'blog' => 'Blog',
-    'terms' => 'Terms',
-    'items' => 'Items',
-    'menu' => 'Menu',
-    'title' => 'Title',
-    'start_a_live_class' => 'Start a new class',
+    'search_anything' => 'جستجو کردن...',
+    'home' => 'صفحه اصلی',
+    'about_us' => 'درباره ما',
+    'contact' => 'مخاطب',
+    'blog' => 'وبلاگ',
+    'terms' => 'مقررات',
+    'items' => 'موارد',
+    'menu' => 'منو',
+    'title' => 'عنوان',
+    'start_a_live_class' => 'شروع کلاس جدید',
 
 
 

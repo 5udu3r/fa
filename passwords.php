@@ -10,10 +10,10 @@ return [
     |
     */
 
-    'reset' => 'Your password has been reset!',
-    'sent' => 'We have emailed your password reset link!',
-    'throttled' => 'Please wait before retrying.',
-    'token' => 'This password reset link is invalid.',
-    'user' => "No user found with this email address.",
+    'reset' => 'رمز عبور شما بازنشانی شد!',
+    'sent' => 'پیوند بازنشانی گذرواژه شما را ایمیل کردیم!',
+    'throttled' => 'لطفاً قبل از تلاش مجدد صبر کنید.',
+    'token' => 'این پیوند بازنشانی گذرواژه معتبر نیست.',
+    'user' => "هیچ کاربری با این آدرس ایمیل پیدا نشد.",
 
 ];

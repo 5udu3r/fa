@@ -8,9 +8,9 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'join' => 'Join',
-    'join_us_today' => 'Join us today',
-    'subscribe_content' => '#We will send the best deals and offers to your email.',
-    'enter_email_here' => 'Enter your email here',
+    'join' => 'پیوستن',
+    'join_us_today' => 'امروز به ما بپیوندید',
+    'subscribe_content' => '#ما بهترین معاملات و پیشنهادات را به ایمیل شما ارسال می کنیم.',
+    'enter_email_here' => 'ایمیل خود را اینجا وارد کنید',
 
 ];

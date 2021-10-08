@@ -8,34 +8,34 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'course' => 'Class',
-    'courses' => 'Classes',
-    'text_course' => 'Text Course',
-  	'video_course' => 'Video Course',
-    'information' => 'Information',
-    'content' => 'Content',
-    'review' => 'Review',
-    'reviews' => 'Reviews',
+    'course' => 'کلاس',
+    'courses' => 'کلاس ها',
+    'text_course' => 'دوره متن',
+  	'video_course' => 'دوره ویدئویی',
+    'information' => 'اطلاعات',
+    'content' => 'محتوا',
+    'review' => 'بررسی',
+    'reviews' => 'بررسی ها',
 
-    'Webinar_description' => 'About this class',
+    'Webinar_description' => 'در مورد این کلاس',
 
-    'post_comment' => 'Post comment',
-    'post_review' => 'Post review',
+    'post_comment' => 'ارسال نظر',
+    'post_review' => 'ارسال نظر',
 
-    'comment_success_store' => 'Comment sent successfully!',
-    'comment_success_store_msg' => 'Your comment will be published after approved by admin.',
+    'comment_success_store' => 'نظر با موفقیت ارسال شد!',
+    'comment_success_store_msg' => 'نظر شما پس از تأیید توسط مدیر منتشر می شود.',
 
-    'guarantee_text' => '5 Days money back guarantee',
+    'guarantee_text' => '5 روز ضمانت بازگشت وجه',
 
-    'product_designer' => 'Product Designer',
+    'product_designer' => 'طراح محصول',
 
-    'content_quality' => 'Content quality',
-    'instructor_skills' => 'Instructor skills',
-    'purchase_worth' => 'Purchase worth',
-    'support_quality' => 'Support quality',
+    'content_quality' => 'کیفیت محتوا',
+    'instructor_skills' => 'مهارت های مربی',
+    'purchase_worth' => 'ارزش خرید',
+    'support_quality' => 'کیفیت پشتیبانی',
 
-    'report_the_course' => 'Report class',
-    'reason' => 'Reason',
-    'select_reason' => 'Select a reason',
-    'report_modal_hint' => 'Please describe about the report short and clearly.',
+    'report_the_course' => 'گزارش کلاس',
+    'reason' => 'دلیل',
+    'select_reason' => 'دلیلی را انتخاب کنید',
+    'report_modal_hint' => 'لطفاً در مورد گزارش کوتاه و واضح توضیح دهید.',
 ];

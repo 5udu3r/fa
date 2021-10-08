@@ -8,79 +8,79 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'home_title' => 'Home',
+    'home_title' => 'صفحه اصلی',
 
-    'slider_heading' => 'Enjoy online learning',
-    'slider_hint' => "Online education is one of the best choices to grow \n learn from the best teachers around the world",
+    'slider_heading' => 'لذت آموزش آنلاین',
+    'slider_hint' => "آموزش آنلاین یکی از بهترین گزینه ها برای رشد بهتر از بهترین معلمان در سراسر جهان است",
 
-    'slider_search_placeholder' => 'Search classes, instructors and organizations...',
-    'find' => 'Search',
+    'slider_search_placeholder' => 'جستجو در کلاس ها ، مربیان و سازمان ها ...',
+    'find' => 'جستجو',
 
-    'view_all' => 'View All',
+    'view_all' => 'مشاهده همه',
     // stats
-    'teachers' => 'Instructors',
-    'skillful_teachers' => 'Skillful Instructors',
-    'skillful_teachers_hint' => 'Start learning from experienced instructors.',
+    'teachers' => 'مربی ها',
+    'skillful_teachers' => 'مربیان ماهر',
+    'skillful_teachers_hint' => 'یادگیری را از مربیان مجرب شروع کنید.',
 
-    'live_classes' => 'Live Classes',
-    'live_classes_hint' => 'Improve your skills using live knowledge flow.',
+    'live_classes' => 'کلاس های آنلاین',
+    'live_classes_hint' => 'مهارت های خود را با استفاده از جریان زنده دانش ارتقا دهید.',
 
-    'happy_students' => 'Happy Students',
-    'happy_students_hint' => 'Enrolled in our classes and improved their skills.',
+    'happy_students' => 'دانش آموزان خوشحال',
+    'happy_students_hint' => 'در کلاس های ما ثبت نام کرده و مهارت های آنها را ارتقاء داد.',
 
-    'offline_courses' => 'Video Courses',
-    'offline_courses_hint' => 'Learn without any geographical & time limitations.',
+    'offline_courses' => 'دوره های ویدیویی',
+    'offline_courses_hint' => 'بدون محدودیت جغرافیایی و زمانی یاد بگیرید.',
 
     'hours' => 'Hours',
 
-    'featured_classes' => 'Featured Classes',
-    'featured_webinars' => 'Featured Classes',
-    'featured_classes_hint' => '#Browse VIP classes and become skillful',
+    'featured_classes' => 'کلاس های ویژه',
+    'featured_webinars' => 'کلاس های ویژه',
+    'featured_classes_hint' => '#کلاسهای VIP را مرور کنید و ماهر شوید',
 
-    'latest_classes' => 'Newest Classes',
-    'latest_webinars' => 'Newest Classes',
-    'latest_webinars_hint' => '#Recently published classes',
+    'latest_classes' => 'جدیدترین کلاس ها',
+    'latest_webinars' => 'جدیدترین کلاس ها',
+    'latest_webinars_hint' => '#کلاسهای اخیراً منتشر شده',
 
-    'featured' => 'Featured',
-    'downloadable' => 'Downloadable',
-    'download' => 'Download',
-    'downloads' => 'Downloads',
+    'featured' => 'ویژه',
+    'downloadable' => 'دانلودی',
+    'download' => 'دانلود',
+    'downloads' => 'دانلود ها',
 
-    'trending_categories' => 'Trending Categories',
-    'trending_categories_hint' => '#Browse trending & popular learning topics',
+    'trending_categories' => 'دسته بندی های پرطرفدار',
+    'trending_categories_hint' => '#موضوعات مورد علاقه و محبوب یادگیری را مرور کنید',
 
-    'best_sellers' => 'Bestselling Classes',
-    'best_sellers_hint' => '#Learn from bestselling classes',
+    'best_sellers' => 'کلاس های پرفروش',
+    'best_sellers_hint' => '#از کلاس های پرفروش درس بگیرید',
 
-    'best_rates' => 'Best Rated Classes',
-    'best_rates_hint' => '#Enjoy high quality and best rated content',
+    'best_rates' => 'بهترین کلاس ها',
+    'best_rates_hint' => '#از محتوای با کیفیت بالا و بهترین رتبه لذت ببرید',
 
-    'discount_classes' => 'Discounted Classes',
-    'discount_classes_hint' => '#Enroll in classes with affordable prices',
+    'discount_classes' => 'کلاس های تخفیف خورده',
+    'discount_classes_hint' => '#در کلاسها با قیمت مناسب ثبت نام کنید',
 
-    'free_classes' => 'Free Classes',
-    'free_classes_hint' => '#Never miss free learning opportunities',
+    'free_classes' => 'کلاس های رایگان',
+    'free_classes_hint' => '#هرگز فرصت های یادگیری رایگان را از دست ندهید',
 
-    'testimonials' => 'Testimonials',
-    'testimonials_hint' => '#What our customers say about us',
+    'testimonials' => 'توصیفات',
+    'testimonials_hint' => '#آنچه مشتریان ما در مورد ما می گویند',
 
-    'subscribe_now' => 'Subscribe Now!',
-    'subscribe_now_hint' => '#Choose a subscription plan and save money!',
+    'subscribe_now' => 'در حال حاضر مشترک شوید!',
+    'subscribe_now_hint' => '#یک طرح اشتراک انتخاب کنید و در هزینه خود صرفه جویی کنید!',
 
-    'instructors' => 'Instructors',
-    'all_instructors' => 'All Instructors',
-    'instructors_hint' => '#Learn from the experienced & skillful instructors',
-    'reserve_a_live_class' => 'Reserve a live meeting',
+    'instructors' => 'مربیان',
+    'all_instructors' => 'همه مربیان',
+    'instructors_hint' => '#از مربیان مجرب و ماهر بیاموزید',
+    'reserve_a_live_class' => 'یک جلسه زنده رزرو کنید',
 
-    'organization' => 'Organization',
-    'organizations' => 'Organizations',
-    'all_organizations' => 'All Organizations',
-    'organizations_hint' => '#Greatest education organizations are here to help you',
+    'organization' => 'سازمان',
+    'organizations' => 'سازمان های',
+    'all_organizations' => 'همه سازمانها',
+    'organizations_hint' => '#بزرگترین سازمانهای آموزشی اینجا هستند تا به شما کمک کنند',
 
-    'blog' => 'Blog',
-    'all_blog' => 'Blog Posts',
-    'blog_hint' => '#Explore latest news and articles',
+    'blog' => 'وبلاگ',
+    'all_blog' => 'پست های وبلاگ',
+    'blog_hint' => '#آخرین اخبار و مقالات را کشف کنید',
 
-    'platform_address' => 'Address',
-    'order_summary' => 'Order Summary',
+    'platform_address' => 'آدرس',
+    'order_summary' => 'خلاصه سفارش',‍
 ];

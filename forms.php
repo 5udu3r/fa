@@ -7,16 +7,16 @@ return [
     | Forms
     |--------------------------------------------------------------------------
     */
-
-    'maximum_64_characters' => 'Maximum 64 characters',
-    'maximum_128_characters' => 'Maximum 128 characters',
-    '50_160_characters_preferred' => '155 - 160 characters preferred',
-    'maximum_50_characters' => 'Maximum 50 characters',
-    'course_thumbnail_size' => '360x250px preferred',
-    'course_cover_size' => '1920x530px preferred',
-    'capacity_placeholder' => 'How many students will you host?',
-    'subscribe_hint' => 'Students will be able to subscribe to your course in addition of direct purchasing.',
-    'webinar_description_placeholder' => 'Minimum 300 words. HTML and images supported.',
-    'empty_means_unlimited' => 'Leave it blank for unlimited.',
+    
+    'maximum_64_characters' => 'حداکثر ۶۴ کاراکتر',
+    'maximum_128_characters' => 'حداکثر ۱۲۸ کاراکتر',
+    '50_160_characters_preferred' => 'ترجیحا بین ۱۵۵ الی ۱۶۰ کاراکتر',
+    'maximum_50_characters' => 'حداکثر ۵۰ کاراکتر',
+    'course_thumbnail_size' => '360x250px ترجیحا',
+    'course_cover_size' => '1920x530px ترجیحا',
+    'capacity_placeholder' => 'میزبان چند دانش آموز خواهید بود؟',
+    'subscribe_hint' => 'دانش آموزان می توانند علاوه بر خرید مستقیم ، در دوره شما مشترک شوند.',
+    'webinar_description_placeholder' => 'حداقل 300 کلمه HTML و تصاویر پشتیبانی می شود.',
+    'empty_means_unlimited' => 'آن را به صورت نامحدود خالی بگذارید.',
 
 ];

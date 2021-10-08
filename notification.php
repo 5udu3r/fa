@@ -8,14 +8,14 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'all_notifications' => 'All notifications',
-    'sender' => 'Sender',
-    'notifications_page_lists_lead' => 'List of notifications. You can edit or delete...',
-    'send_notification' => 'Send notification',
-    'edit_notification' => 'Edit notification',
-    'empty_notifications' => 'Empty notifications',
-    'email_ignore_msg' => 'If you didnt submit this request, please ignore it.',
-    'send_noticeboard' => 'Send a new notice',
-    'edit_noticeboard' => 'Edit a notice',
-    'post_notice' => 'Post a new notice',
+    'all_notifications' => 'همه اعلان ها',
+    'sender' => 'فرستنده',
+    'notifications_page_lists_lead' => 'لیست اعلان ها می توانید ویرایش یا حذف کنید ...',
+    'send_notification' => 'اعلان ارسال کنید',
+    'edit_notification' => 'ویرایش اعلان',
+    'empty_notifications' => 'اعلان های خالی',
+    'email_ignore_msg' => 'اگر این درخواست را ارسال نکرده اید ، لطفاً آن را نادیده بگیرید.',
+    'send_noticeboard' => 'اعلان جدید ارسال کنید',
+    'edit_noticeboard' => 'یک اطلاعیه را ویرایش کنید',
+    'post_notice' => 'اعلامیه جدیدی ارسال کنید',
 ];
